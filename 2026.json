@@ -40,6 +40,33 @@
         "emoji": "🌸"
       }
     ],
+    '3-8': [
+      CalendarEvent(
+        title: 'International Women\'s Day',
+        titleBengali: 'আন্তর্জাতিক নারী দিবস',
+        description: 'বিশ্বজুড়ে নারীদের অর্থনৈতিক, রাজনৈতিক ও সামাজিক অর্জন উদযাপন।',
+        type: EventType.internationalDay,
+        emoji: '👩',
+      ),
+    ],
+    '3-17': [
+      CalendarEvent(
+        title: 'Birthday of Sheikh Mujibur Rahman',
+        titleBengali: 'বঙ্গবন্ধু শেখ মুজিবুর রহমানের জন্মদিন / জাতীয় শিশু দিবস',
+        description: 'বাংলাদেশের জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানের জন্মবার্ষিকী। জাতীয় শিশু দিবস হিসেবে পালিত।',
+        type: EventType.nationalDay,
+        emoji: '🕊️',
+      ),
+    ],
+    "3-25": [
+      CalendarEvent(
+        title: 'Genocide Remembrance Day',
+        titleBengali: 'গণহত্যা দিবস',
+        description: '১৯৭১ সালের ২৫ মার্চ রাতে পাকিস্তানি বাহিনীর গণহত্যার স্মরণে পালিত।',
+        type: EventType.nationalDay,
+        emoji: '🕯️',
+      ),
+    ],
 
     "3-26": [
       {
@@ -59,6 +86,15 @@
         "type": "festival",
         "emoji": "🎊"
       }
+    ],
+    '4-22': [
+      CalendarEvent(
+        title: 'Earth Day',
+        titleBengali: 'বিশ্ব পৃথিবী দিবস',
+        description: 'পরিবেশ সংরক্ষণ ও পৃথিবী রক্ষায় সচেতনতা দিবস।',
+        type: EventType.internationalDay,
+        emoji: '🌍',
+      ),
     ],
 
     "5-1": [
