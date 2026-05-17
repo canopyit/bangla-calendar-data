@@ -1,0 +1,146 @@
+{
+  "year": 2026,
+  "gregorian": {
+    "1-1": [
+      {
+        "title": "New Year's Day",
+        "titleBengali": "নববর্ষ",
+        "description": "ইংরেজি নববর্ষের প্রথম দিন।",
+        "type": "internationalDay",
+        "emoji": "🎉"
+      }
+    ],
+
+    "1-14": [
+      {
+        "title": "Makar Sankranti",
+        "titleBengali": "মকর সংক্রান্তি",
+        "description": "পৌষ সংক্রান্তি ও পিঠা উৎসব।",
+        "type": "festival",
+        "emoji": "🎋"
+      }
+    ],
+
+    "2-14": [
+      {
+        "title": "Valentine's Day",
+        "titleBengali": "ভালোবাসা দিবস",
+        "description": "বিশ্ব ভালোবাসা দিবস।",
+        "type": "internationalDay",
+        "emoji": "❤️"
+      }
+    ],
+
+    "2-21": [
+      {
+        "title": "International Mother Language Day",
+        "titleBengali": "আন্তর্জাতিক মাতৃভাষা দিবস",
+        "description": "ভাষা শহীদদের স্মরণ দিবস।",
+        "type": "nationalDay",
+        "emoji": "🌸"
+      }
+    ],
+
+    "3-26": [
+      {
+        "title": "Independence Day (BD)",
+        "titleBengali": "স্বাধীনতা দিবস",
+        "description": "বাংলাদেশের স্বাধীনতা দিবস।",
+        "type": "nationalDay",
+        "emoji": "🇧🇩"
+      }
+    ],
+
+    "4-14": [
+      {
+        "title": "Pohela Boishakh",
+        "titleBengali": "পহেলা বৈশাখ",
+        "description": "বাংলা নববর্ষ উৎসব।",
+        "type": "festival",
+        "emoji": "🎊"
+      }
+    ],
+
+    "5-1": [
+      {
+        "title": "Labour Day",
+        "titleBengali": "শ্রমিক দিবস",
+        "description": "আন্তর্জাতিক শ্রমিক দিবস।",
+        "type": "internationalDay",
+        "emoji": "✊"
+      }
+    ],
+
+    "8-15": [
+      {
+        "title": "National Mourning Day",
+        "titleBengali": "জাতীয় শোক দিবস",
+        "description": "বঙ্গবন্ধু হত্যার স্মরণে।",
+        "type": "nationalDay",
+        "emoji": "🖤"
+      }
+    ],
+
+    "12-16": [
+      {
+        "title": "Victory Day",
+        "titleBengali": "বিজয় দিবস",
+        "description": "বাংলাদেশের বিজয় দিবস।",
+        "type": "nationalDay",
+        "emoji": "🏆"
+      }
+    ],
+
+    "12-25": [
+      {
+        "title": "Christmas",
+        "titleBengali": "বড়দিন",
+        "description": "যিশু খ্রিস্টের জন্মদিন।",
+        "type": "religiousDay",
+        "emoji": "🎄"
+      }
+    ]
+  },
+
+  "bangla": {
+    "1-1": [
+      {
+        "title": "Pohela Boishakh",
+        "titleBengali": "পহেলা বৈশাখ",
+        "description": "বাংলা নববর্ষ।",
+        "type": "festival",
+        "emoji": "🎊"
+      }
+    ],
+
+    "6-15": [
+      {
+        "title": "Durga Puja (Start Approx)",
+        "titleBengali": "দুর্গাপূজা",
+        "description": "শারদীয় দুর্গাপূজা উৎসব।",
+        "type": "festival",
+        "emoji": "🪔"
+      }
+    ],
+
+    "9-1": [
+      {
+        "title": "Poush Month Start",
+        "titleBengali": "পৌষ মাস শুরু",
+        "description": "শীত ও পিঠা উৎসবের সময়।",
+        "type": "panjika",
+        "emoji": "❄️"
+      }
+    ],
+
+    "11-1": [
+      {
+        "title": "Spring Festival",
+        "titleBengali": "বসন্ত উৎসব",
+        "description": "ফাল্গুন মাসের শুরু।",
+        "type": "festival",
+        "emoji": "🌼"
+      }
+    ]
+  }
+}
