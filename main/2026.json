@@ -1,0 +1,19 @@
+{
+  "2026-01-01": {
+    "banglaMonth": "পৌষ",
+    "banglaDay": "১৭",
+    "banglaYear": "১৪৩২",
+    "ritu": "শীত",
+    "tithi": "দ্বিতীয়া",
+    "paksha": "শুক্লপক্ষ",
+    "nakshatra": "রোহিণী",
+    "events": [
+      {
+        "title": "নববর্ষ উদযাপন",
+        "type": "festival",
+        "emoji": "🎉",
+        "description": "ইংরেজি নববর্ষ"
+      }
+    ]
+  }
+}
